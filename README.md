@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Texto animado -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hola%2C+soy+Yair+Olvera+%F0%9F%91%8B;Fullstack+Developer;React+%2B+Node+%2B+TypeScript;Building+VisionCore+%26+POS+LYFRGL)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hola%2C+soy+Yair+Olvera+%F0%9F%91%8B;Fullstack+Developer;React+%2B+Node+%2B+TypeScript;)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=yairolvera25-dev&color=6366f1&style=flat-square&label=Profile+Views" />
 
