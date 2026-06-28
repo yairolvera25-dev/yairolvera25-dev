@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&pause=1000&color=6366F1&center=true&vCenter=true&width=650&lines=Hola%2C+soy+Yair+Olvera+%F0%9F%91%8B;_Fullstack+Developer+%7C+React+%2B+Node+%2B+TypeScript;Construyendo+SaaS+y+sistemas+en+producci%C3%B3n;Disponible+para+proyectos+freelance+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&pause=1000&color=6366F1&center=true&vCenter=true&width=650&lines=Hola%2C+soy+Yair+Olvera+%F0%9F%91%8B;Fullstack+Developer+%7C+React+%2B+Node+%2B+TypeScript;Construyendo+SaaS+y+sistemas+en+producci%C3%B3n;Disponible+para+proyectos+freelance+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=yairolvera25-dev&color=6366f1&style=flat-square&label=Profile+Views" />
 
