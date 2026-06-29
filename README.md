@@ -84,7 +84,6 @@ Soy desarrollador fullstack con experiencia construyendo sistemas reales: un **P
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 ---
 
@@ -92,7 +91,7 @@ Soy desarrollador fullstack con experiencia construyendo sistemas reales: un **P
 
 <div align="center">
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=yairolvera25-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yairolvera25-dev&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="170" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=yairolvera25-dev&layout=compact&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=yairolvera25-dev&layout=compact&theme=tokyonight&hide_border=true&hide=dart,php,blade,c%2B%2B)" />
 </div>
 
 <div align="center">
